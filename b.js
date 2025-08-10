@@ -11,3 +11,6 @@ import { add,sub } from './a.js';
 //add(aa1,aa2)
 var result = add(10,20);
 console.log(result);
+
+var result2 = sub(186,30);
+console.log(result2);
