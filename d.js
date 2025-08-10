@@ -7,5 +7,5 @@ import {mul,div} from './c.js';
 let result = mul(10,10);
 console.log(result);
 
-let result2 = div(10,10);
-console.log(result2);
+let result3 = div(10,10);
+console.log(result3);
